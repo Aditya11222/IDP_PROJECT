@@ -1,3 +1,28 @@
+Intelligent Document Processing
+Intelligent Document Processing (IDP) automates the extraction and analysis of data from various documents using advanced machine learning models. This project leverages fine-tuned transformer models for Named Entity Recognition (NER), state-of-the-art text summarization techniques, and cutting-edge Table Structure Recognition (TSR) methods to streamline document handling processes.
+
+Features
+
+Named Entity Recognition (NER):
+
+Models: LUKE, DistilBERT
+Automates identification of key entities
+Enhances accuracy and reduces manual effort
+
+Text Summarization:
+
+Models: Pegasus, BART-CNN
+Condenses extensive texts into concise summaries
+Saves time and mitigates information overload
+Table Structure Recognition (TSR):
+
+Models: YOLOv8, PaddleOCR
+
+Accurately extracts and preserves relationships in tabular data
+Improves efficiency and scalability
+
+
+
 Project Instructions
 ==============================
 
